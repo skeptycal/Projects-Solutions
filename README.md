@@ -1,4 +1,6 @@
-This repo links to solutions of [Projects](https://github.com/thekarangoel/Projects) written by other users in any language. See [how to contribute](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo.
+Awesome Project Solutions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+This repo links to solutions of [Projects](https://github.com/skeptycal/Awesome-Project-List) written by other users in any language. See [how to contribute](https://github.com/skeptycal/Awesome-Project-List/blob/master/CONTRIBUTING.md) to this repo.
 
 =========================================
 
